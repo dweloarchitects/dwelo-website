@@ -50,7 +50,7 @@ body {
 }
 
 .statement {
-    font-size: clamp(1.2rem, 2vw, 2.3rem);
+    font-size: clamp(1.0rem, 2vw, 2.3rem);
     line-height: 1.4;
     font-weight: 400;
 
