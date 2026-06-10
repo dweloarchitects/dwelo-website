@@ -50,7 +50,7 @@ body {
 }
 
 .statement {
-    font-size: clamp(12.6rem, 2vw, 2.3rem);
+    font-size: clamp(1.2rem, 2vw, 2.3rem);
     line-height: 1.4;
     font-weight: 400;
 
@@ -58,7 +58,7 @@ body {
 }
 
 .services {
-    font-size: 1.2rem;
+    font-size: 1.0rem;
     color: var(--text);
 
     margin-bottom: 5rem;
