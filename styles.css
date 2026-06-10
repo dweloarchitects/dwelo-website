@@ -20,9 +20,9 @@ body {
     color: var(--text);
 
     font-family:
-        "Manrope",
-        Helvetica Neue,
+        "montserrat",
         Avenir,
+        Manrope,
         sans-serif;
 }
 
